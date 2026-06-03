@@ -60,7 +60,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ===================================================================================================================================================================
 
-# CREDIT:
+# CREDIT
 
 Pembagian tugas proyek:
 •	Project Manager: DIRA FITRI ANNISA (2405102079)
