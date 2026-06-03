@@ -60,8 +60,15 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ===================================================================================================================================================================
 
+#CREDIT:
 
-III.	MANUAL BOOK
+Pembagian tugas proyek:
+•	Project Manager: DIRA FITRI ANNISA (2405102079)
+•	System Analyst dan Investor: PENRA ONESIMUS SAMOSIR (2405102103)
+•	Frontend Developer dan Web Designer: HOLIKRISTIN BR GINTING (2405102019)
+•	Backend Developer dan Database Administrator: NAIA BILBINA (2405102091)
+
+# MANUAL BOOK
 3.1	Pendahuluan
 RestoFeasto merupakan sistem informasi reservasi restoran dan pre-order berbasis web yang dirancang untuk membantu pelanggan dalam melakukan reservasi meja, pemesanan menu, serta pembayaran dengan upload bukti transaksi. Sistem ini memiliki tiga jenis pengguna, yaitu Admin, Kasir, dan Pelanggan. Manual book ini disusun sebagai panduan penggunaan sistem agar setiap pengguna dapat mengoperasikan fitur yang tersedia dengan mudah dan sesuai dengan hak aksesnya.
 3.2	Hak Akses Pengguna (Role)
